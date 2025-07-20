@@ -9,7 +9,7 @@
 
 ### 📊 Minhas estatísticas no GitHub:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=casaju&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=casaju&show_icons=true&theme=tokyonight)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=casaju&layout=compact&theme=radical)
 
