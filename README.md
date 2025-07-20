@@ -2,16 +2,16 @@
 
 - 🚀 Estudante de Sistemas de Informação - IFC  
 - 📊 Entusiasta de Análise de Dados, Python e Java  
-- ☕ Projetos movidos a aprendizado e café  
+- 📚 Projetos movidos a aprendizado 
 - 💬 Pronomes: ela/dela
 
 ---
 
 ### 📊 Minhas estatísticas no GitHub:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliacasagrande&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=casaju&show_icons=true&theme=radical)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=juliacasagrande&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=casaju&layout=compact&theme=radical)
 
 ---
 
