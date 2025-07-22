@@ -1,21 +1,20 @@
-## Oii, eu sou a Julia Casagrande!
+## Hi, I'm Julia Casagrande!
 
-- 🚀 Estudante de Sistemas de Informação - IFC  
-- 📊 Entusiasta de Análise de Dados, Python e Java  
-- 📚 Projetos movidos a aprendizado 
-- 💬 Pronomes: ela/dela
+- 🚀 Information Systems student at IFC  
+- 📊 Enthusiast of Data Analysis, Python, and Java  
+- 📚 Projects powered by learning  
+- 💬 Pronouns: she/her
 
 ---
 
-### 📊 Minhas estatísticas no GitHub:
-
+### 📊 My GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=casaju&show_icons=true&theme=tokyonight)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=casaju&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 Contato:
+### 📫 Contact:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/julicasaa/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](juliacambrosini@gmail.com)
