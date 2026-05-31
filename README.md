@@ -37,13 +37,6 @@
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=casaju&theme=tokyonight&border_radius=12" />
-
-</div>
 
 
 ## 🌱 Areas of Interest
