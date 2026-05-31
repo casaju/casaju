@@ -1,6 +1,7 @@
 <h1 align="center">Hi!, I'm Julia Casagrande 👋</h1>
 
 <p align="center">
+  🌷 About Me
   🎓 Information Systems Student at IFC <br>
   💻 Passionate about Data Analysis, Python & Java <br>
   🚀 Building projects while learning
@@ -36,10 +37,10 @@
 
 ---
 
-## 🌱 Currently Learning
-
-- Data Analysis
-- Django + PostgreSQL
-- APIs & Automation
-- Artificial Intelligence
-
+## 🌱 Areas of Interest
+Data Analysis
+Software Quality Assurance (QA)
+Software Testing
+Web Development
+Django + PostgreSQL
+Automation & Artificial Intelligence
